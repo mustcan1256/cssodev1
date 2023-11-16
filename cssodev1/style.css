@@ -1,0 +1,21 @@
+.header { font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:brown;
+    font-size: 2em;
+
+}
+
+.navbar {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 5px outset; 
+    border-color: black; 
+    border-radius: 4;
+    font-size: 1.25em;
+}
+
+body {
+        background-color: rgb(181, 199, 199);
+        text-align: center;
+        list-style-position: inside;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
